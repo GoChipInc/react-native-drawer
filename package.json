@@ -9,6 +9,7 @@
     "url": "git@github.com:rt2zz/react-native-drawer.git"
   },
   "dependencies": {
+    "prop-types": "^15.5.10",
     "tween-functions": "^1.0.1"
   },
   "devDependencies": {
